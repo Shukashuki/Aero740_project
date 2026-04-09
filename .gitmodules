@@ -1,0 +1,3 @@
+[submodule "spider"]
+	path = spider
+	url = git@github.com:Shukashuki/spider.git
